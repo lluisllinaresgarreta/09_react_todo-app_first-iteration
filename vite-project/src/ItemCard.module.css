@@ -30,7 +30,7 @@
     font-weight: bold;
 }
 
-.done {
+.done{
     background-color: #008001;
     text-decoration: line-through;
 }
